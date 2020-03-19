@@ -29,7 +29,15 @@ dependencies:
   #Local Cache
   shared_preferences: ^0.5.3+4
 
+  #Launcher Icon
+  flutter_launcher_icons: ^0.7.4
+
   cupertino_icons: ^0.1.2
+
+flutter_icons:
+  image_path: "icons/icon.png" 
+  android: true
+  ios: true
 
 dev_dependencies:
   flutter_test:
