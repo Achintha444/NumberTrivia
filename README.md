@@ -1,16 +1,12 @@
-# tdd
+#   Number Trivia 
 
-A new Flutter project.
+This is a mobile app created by using Flutter and numbersapi.com
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an application created using Flutter Clean Architecture and Test Driven Developement.
 
-A few resources to get you started if this is your first Flutter project:
+Here is a video tutorial to get you started if you are interested in learning Flutter Clean Architecture and Test Driven Developement:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Video Tutorial: Flutter Clean Architecture and Test Driven Developement](https://www.youtube.com/watch?v=dc3B_mMrZ-Q&t=577s)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
